@@ -24,13 +24,14 @@ export default function Home() {
       <img src="/Images/img1.jpg" alt="Los Angeles" className="d-block" style={styles}/>
     </div>
     <div className="carousel-item">
-      <img src="/Images/img2.jpg" alt="Chicago" className="d-block" style={styles}/>
+      <img src="/Images/img2.webp" alt="Chicago" className="d-block" style={styles}/>
       
     </div>
     <div className="carousel-item">
       <img src="/Images/img3.jpg" alt="New York" className="d-block" style={styles}/>
   
     </div>
+    
   </div>
   </div>
 
